@@ -13,7 +13,7 @@
 	 
 	body {
 		background-color: #fff;
-		color: #7a7885;
+		color: #36805b;
 	}
 		
 	h1 a, 
@@ -34,22 +34,22 @@
 	}
 
 	hr { 
-		border: solid #e0e0e0; 
+		border: solid #c5dbd0; 
 	}
 	
 	code { 
-		border: 1px solid #e0e0e0;
+		border: 1px solid #c5dbd0;
 		background-color: #f3f3f3;  
 		color: #d50f25;  
 	}
 	
 	pre { 
-		border: 1px solid #e0e0e0;   
+		border: 1px solid #c5dbd0;   
 		background-color: #f3f3f3; 
 	}
 	
 	.hr { 
-		border-top: 1px solid #e0e0e0;  
+		border-top: 1px solid #c5dbd0;  
 	}
 	
 	.text-highlight { 
@@ -155,11 +155,11 @@
    ========================================================================== */
 
 	.accordion-item {
-		border-top: 1px solid #e0e0e0;
+		border-top: 1px solid #c5dbd0;
 	}
 	
 	.accordion-item:after {
-		color: #e0e0e0;
+		color: #c5dbd0;
 	}
 	
 	.accordion-item.active:after {
@@ -170,11 +170,11 @@
    ========================================================================== */
 
 	.toggle-item {
-		border-top: 1px solid #e0e0e0;
+		border-top: 1px solid #c5dbd0;
 	}
 	
 	.toggle-item:after {
-		color: #e0e0e0;
+		color: #c5dbd0;
 	}
 	
 	.toggle-item.active:after {
@@ -265,9 +265,9 @@
    =Dividers
    ========================================================================== */
 	
-	.divider.single-line { border-top: 1px solid #e0e0e0; }
+	.divider.single-line { border-top: 1px solid #c5dbd0; }
 	
-	.divider.double-line { border-top: 4px double #e0e0e0; }
+	.divider.double-line { border-top: 4px double #c5dbd0; }
 	
 	.divider.single-dotted {
 		 background: url(../../images/bg-single-dotted.gif) repeat-x top left ;  
@@ -535,7 +535,7 @@
 	
 	input.validation-error,
 	textarea.validation-error,
-	select.validation-error { border: 1px solid #e0e0e0; }  
+	select.validation-error { border: 1px solid #c5dbd0; }  
 	         
 /* ==========================================================================
    =Blog
@@ -627,7 +627,7 @@
    ========================================================================== */
 	
 	.wp-caption {
-		border: 1px solid #e0e0e0;
+		border: 1px solid #c5dbd0;
 		background: #fff;
 	}
 	
@@ -783,7 +783,7 @@
 	.sf-menu > li.current > a,
 	.sf-menu > li > a:hover,
 	.sf-menu li.sfHover > a { 
-		color: #565462;
+		color: #0f693c;
 	}
 
 /* =DropDown
@@ -834,7 +834,7 @@
    ========================================================================== */
 			
 	#mobile-menu {
-		border-bottom: 1px solid #e0e0e0;
+		border-bottom: 1px solid #c5dbd0;
 	}
 	
 	#mobile-menu .sf-mega {
@@ -842,12 +842,12 @@
 	}
 
 	#mobile-menu li a {
-		border-top: 1px solid #e0e0e0;
+		border-top: 1px solid #c5dbd0;
 		color: #111;
 	}
 	
 	#mobile-menu .mobile-menu-submenu-arrow {
-		border-left: 1px solid #e0e0e0;
+		border-left: 1px solid #c5dbd0;
 		color: #111;
 	}
 	
@@ -884,7 +884,7 @@
 	@media (min-width: 1025px) {
 		
 		#header.stuck {
-			border-bottom: 1px solid #e0e0e0;
+			border-bottom: 1px solid #c5dbd0;
 			background-color: rgba(255, 255, 255, 0.95);
 		}
 	

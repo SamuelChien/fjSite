@@ -104,7 +104,7 @@
 	 
 	body {
 		background-color: #fff;
-		color: #7a7885;
+		color: #36805b;
 		font: 14px "Roboto", Arial, sans-serif;
 		line-height: 24px;
 		font-weight: 300;
@@ -128,7 +128,7 @@
 	h4 a, 
 	h5 a, 
 	h6 a { 
-		color: #7a7885;
+		color: #36805b;
 		font-weight: inherit; 
 	}
 	
@@ -212,7 +212,7 @@
 
 	hr { 
 		height: 0; 
-		border: solid #e0e0e0; 
+		border: solid #c5dbd0; 
 		border-width: 1px 0 0 0;
 		margin: 30px 0;
 	}
@@ -225,7 +225,7 @@
 	
 	code { 
 		padding: 1px 4px;
-		border: 1px solid #e0e0e0;
+		border: 1px solid #c5dbd0;
 		background-color: #f3f3f3;  
 		color: #d50f25;  
 	}
@@ -234,7 +234,7 @@
 		overflow-x: auto; 
 		display: block;
 		padding: 20px;
-		border: 1px solid #e0e0e0;   
+		border: 1px solid #c5dbd0;   
 		margin-bottom: 20px;
 		white-space: pre-wrap;
 		background-color: #f3f3f3; 
@@ -247,7 +247,7 @@
 	 */
 	
 	.hr { 
-		border-top: 1px solid #e0e0e0;  
+		border-top: 1px solid #c5dbd0;  
 		margin: 30px 0;
 	}
 	
@@ -259,7 +259,7 @@
 		padding: 10px;
 		border-radius: 2px;	
 		background-color: #f6f6f6; 
-		color: #7a7885; 
+		color: #36805b; 
 	}
 
 	.text-uppercase { text-transform: uppercase; }
@@ -303,7 +303,7 @@
 	
 	a, 
 	a:visited { 
-		color: #5c5a69; 
+		color: #0f6d3e; 
 		text-decoration: none; 
 	}
 	
@@ -317,7 +317,7 @@
 	
 	a:hover, 
 	a:focus {
-		color: #5c5a69;
+		color: #0f6d3e;
 		outline: 0; 
 		text-decoration: underline;
 	}	
@@ -400,7 +400,7 @@
 	table th, 
 	table td {
 		padding: 8px; 
-		border-top: 1px solid #7a7885;
+		border-top: 1px solid #36805b;
 		vertical-align: top; 
 	}
 	
@@ -462,7 +462,7 @@
 	input[type="email"]:focus,
 	input[type="url"]:focus,
 	textarea:focus {
-		border-color: #7a7885;
+		border-color: #36805b;
 		outline: 0;		
 	}
 	

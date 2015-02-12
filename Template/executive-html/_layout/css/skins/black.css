@@ -34,22 +34,22 @@
 	}
 
 	hr { 
-		border: solid #e0e0e0; 
+		border: solid #c5dbd0; 
 	}
 	
 	code { 
-		border: 1px solid #e0e0e0;
+		border: 1px solid #c5dbd0;
 		background-color: #f3f3f3;  
 		color: #d50f25;  
 	}
 	
 	pre { 
-		border: 1px solid #e0e0e0;   
+		border: 1px solid #c5dbd0;   
 		background-color: #f3f3f3; 
 	}
 	
 	.hr { 
-		border-top: 1px solid #e0e0e0;  
+		border-top: 1px solid #c5dbd0;  
 	}
 	
 	.text-highlight { 
@@ -73,7 +73,7 @@
 	
 	a, 
 	a:visited { 
-		color: #5c5a69; 
+		color: #0f6d3e; 
 	}
 	
 	a:active {
@@ -82,7 +82,7 @@
 	
 	a:hover, 
 	a:focus {
-		color: #5c5a69;
+		color: #0f6d3e;
 	}	
 
 /* ==========================================================================
@@ -155,11 +155,11 @@
    ========================================================================== */
 
 	.accordion-item {
-		border-top: 1px solid #e0e0e0;
+		border-top: 1px solid #c5dbd0;
 	}
 	
 	.accordion-item:after {
-		color: #e0e0e0;
+		color: #c5dbd0;
 	}
 	
 	.accordion-item.active:after {
@@ -170,11 +170,11 @@
    ========================================================================== */
 
 	.toggle-item {
-		border-top: 1px solid #e0e0e0;
+		border-top: 1px solid #c5dbd0;
 	}
 	
 	.toggle-item:after {
-		color: #e0e0e0;
+		color: #c5dbd0;
 	}
 	
 	.toggle-item.active:after {
@@ -265,9 +265,9 @@
    =Dividers
    ========================================================================== */
 	
-	.divider.single-line { border-top: 1px solid #e0e0e0; }
+	.divider.single-line { border-top: 1px solid #c5dbd0; }
 	
-	.divider.double-line { border-top: 4px double #e0e0e0; }
+	.divider.double-line { border-top: 4px double #c5dbd0; }
 	
 	.divider.single-dotted {
 		 background: url(../../images/bg-single-dotted.gif) repeat-x top left ;  
@@ -314,7 +314,7 @@
 		color: #fff;
 	}
 	
-	.icon-box-1:hover > i { background-color: #5c5a69; }
+	.icon-box-1:hover > i { background-color: #0f6d3e; }
 
 /* =Icon Box 2
    ========================================================================== */
@@ -335,7 +335,7 @@
 	
 	.icon-box-2:hover a { color: #fff; }
 	
-	.icon-box-2:hover > i { background-color: #5c5a69; }
+	.icon-box-2:hover > i { background-color: #0f6d3e; }
 	
 /* ==========================================================================
    =Odometer
@@ -393,7 +393,7 @@
 		color: #fff; 
 	}
 	
-	.pricing-table:hover .btn:hover { background-color: #5c5a69; }
+	.pricing-table:hover .btn:hover { background-color: #0f6d3e; }
 
 /* ==========================================================================
    =Progress Bar
@@ -436,7 +436,7 @@
 
 	@media (max-width: 480px) {
 		
-		tr { border-top: 1px solid #5c5a69; }
+		tr { border-top: 1px solid #0f6d3e; }
 	  
 	}
 
@@ -471,7 +471,7 @@
 		.tabs-container .tabs-menu li:first-child a { border-top: 1px solid #1a1a1a; }
 		
 		.tabs-container .tabs-menu li.active a {  
-			border-bottom-color: #5c5a69;
+			border-bottom-color: #0f6d3e;
 			background-color: #fff; 
 		}
 	  
@@ -535,7 +535,7 @@
 	
 	input.validation-error,
 	textarea.validation-error,
-	select.validation-error { border: 1px solid #e0e0e0; }  
+	select.validation-error { border: 1px solid #c5dbd0; }  
 	         
 /* ==========================================================================
    =Blog
@@ -627,7 +627,7 @@
    ========================================================================== */
 	
 	.wp-caption {
-		border: 1px solid #e0e0e0;
+		border: 1px solid #c5dbd0;
 		background: #fff;
 	}
 	
@@ -722,7 +722,7 @@
 		border-bottom: 1px solid #1a1a1a;
 	}
 	
-	#newsletter-subscribe-form input[type="submit"]:hover { background-color: #5c5a69; }
+	#newsletter-subscribe-form input[type="submit"]:hover { background-color: #0f6d3e; }
 
 /* =EWF Latest posts widget
    ========================================================================== */
@@ -783,7 +783,7 @@
 	.sf-menu > li.current > a,
 	.sf-menu > li > a:hover,
 	.sf-menu li.sfHover > a { 
-		color: #565462;
+		color: #0f693c;
 	}
 
 /* =DropDown
@@ -834,7 +834,7 @@
    ========================================================================== */
 			
 	#mobile-menu {
-		border-bottom: 1px solid #e0e0e0;
+		border-bottom: 1px solid #c5dbd0;
 	}
 	
 	#mobile-menu .sf-mega {
@@ -842,12 +842,12 @@
 	}
 
 	#mobile-menu li a {
-		border-top: 1px solid #e0e0e0;
+		border-top: 1px solid #c5dbd0;
 		color: #111;
 	}
 	
 	#mobile-menu .mobile-menu-submenu-arrow {
-		border-left: 1px solid #e0e0e0;
+		border-left: 1px solid #c5dbd0;
 		color: #111;
 	}
 	
@@ -875,7 +875,7 @@
 		background: url(../../images/bg-search.png) no-repeat center center;
 	}
 	
-	#custom-search-form #s:focus { border-color: #5c5a69; }
+	#custom-search-form #s:focus { border-color: #0f6d3e; }
 
 /* ==========================================================================
    =Sticky Header
@@ -884,7 +884,7 @@
 	@media (min-width: 1025px) {
 		
 		#header.stuck {
-			border-bottom: 1px solid #e0e0e0;
+			border-bottom: 1px solid #c5dbd0;
 			background-color: rgba(255, 255, 255, 0.95);
 		}
 	
@@ -920,7 +920,7 @@
 	#footer-wrapper .widget_nav_menu li:nth-child(even) a,
 	#footer-wrapper .ewf_widget_navigation li:nth-child(even) a,
 	#footer-wrapper .ewf_widget_latest_posts .post-details,
-	#footer-wrapper .widget_tag_cloud a:hover { background-color: #5c5a69; }
+	#footer-wrapper .widget_tag_cloud a:hover { background-color: #0f6d3e; }
 	
 	#footer-wrapper .widget_tag_cloud a,
 	#footer-wrapper .ewf_widget_social_media a.social-icon { border-color: #d7d7d7; }

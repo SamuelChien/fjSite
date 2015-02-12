@@ -93,7 +93,7 @@
 	}
 	
 	.bx-wrapper .bx-pager.bx-default-pager a:hover,
-	.bx-wrapper .bx-pager.bx-default-pager a.active { background: #7a7885; }
+	.bx-wrapper .bx-pager.bx-default-pager a.active { background: #36805b; }
 
 /* ==========================================================================
    =Directional Controls (Next / Prev)
@@ -119,7 +119,7 @@
 		top: 50%;
 		width: 36px;
 		height: 36px;
-		border: 2px solid #7a7885;
+		border: 2px solid #36805b;
 		border-radius: 3px;
 		outline: 0;
 		margin-top: -16px;
@@ -219,8 +219,8 @@
 		color: #d7d7d7; 
 	}
 	
-	.slider-control span:hover { border-color: #7a7885; }
-	.slider-control span:hover a { color: #7a7885; }
+	.slider-control span:hover { border-color: #36805b; }
+	.slider-control span:hover a { color: #36805b; }
 	
 	.features-slider { margin-bottom: 80px; }
 	

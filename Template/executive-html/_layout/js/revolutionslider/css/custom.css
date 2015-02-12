@@ -52,7 +52,7 @@
 		background: #fff;
 	}
 
-	.tp-bullets.simplebullets.round .bullet.selected { background: #7a7885;  }
+	.tp-bullets.simplebullets.round .bullet.selected { background: #36805b;  }
 
 /* ==========================================================================
    =Rev Slider Nav
@@ -70,8 +70,8 @@
 
 	.tp-leftarrow.default:hover,
 	.tp-rightarrow.default:hover {
-		border-color: #7a7885;
-		background-color: #7a7885; 
+		border-color: #36805b;
+		background-color: #36805b; 
 	}
 
 	.tp-leftarrow.default { background: url(../../../images/left.png) no-repeat center center; }
@@ -84,7 +84,7 @@
    	.caption.bg {
 		width: 475px;
 		height: 425px;
-		background-color: #7a7885;
+		background-color: #36805b;
 	}
 	
 	.caption.title {
@@ -116,8 +116,8 @@
 	}
    
    	.caption .btn:hover {
-		border-color: #7a7885;
-		background-color: #7a7885;
+		border-color: #36805b;
+		background-color: #36805b;
 		color: #fff;
 	}
    

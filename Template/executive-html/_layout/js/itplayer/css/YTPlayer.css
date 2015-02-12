@@ -77,12 +77,12 @@
    ========================================================================== */
    
 .mb_YTVPBar .ytpicon {
- border: 2px solid #7a7885;
+ border: 2px solid #36805b;
  border-radius: 50px;
  font-family: 'ytpregular';
  font-size: 55px;
  line-height: 65px;
- color: #7a7885;
+ color: #36805b;
 }
 
 .dark-bg  .mb_YTVPBar .ytpicon {
