@@ -53,7 +53,7 @@
 	}
 	
 	.text-highlight { 
-		background-color: #f6f6f6; 
+		background-color: #ecf6f1; 
 		color: #1a1a1a; 
 	}
 	
@@ -73,7 +73,7 @@
 	
 	a, 
 	a:visited { 
-		color: #0f6d3e; 
+		color: #278355; 
 	}
 	
 	a:active {
@@ -82,7 +82,7 @@
 	
 	a:hover, 
 	a:focus {
-		color: #0f6d3e;
+		color: #278355;
 	}	
 
 /* ==========================================================================
@@ -107,7 +107,7 @@
 	input,
 	textarea,
 	select {
-		border: 2px solid #d7d7d7;
+		border: 2px solid #e2f0e9;
 		background: #fff;
 	}
 	
@@ -257,7 +257,7 @@
    ========================================================================== */
 	
 	ul.check li:before {
-		background-color: #f6f6f6;
+		background-color: #ecf6f1;
 		color: #1a1a1a;
 	}
 
@@ -314,7 +314,7 @@
 		color: #fff;
 	}
 	
-	.icon-box-1:hover > i { background-color: #0f6d3e; }
+	.icon-box-1:hover > i { background-color: #278355; }
 
 /* =Icon Box 2
    ========================================================================== */
@@ -335,7 +335,7 @@
 	
 	.icon-box-2:hover a { color: #fff; }
 	
-	.icon-box-2:hover > i { background-color: #0f6d3e; }
+	.icon-box-2:hover > i { background-color: #278355; }
 	
 /* ==========================================================================
    =Odometer
@@ -380,7 +380,7 @@
 	}
 	
 	.pricing-table-offer ul li:after {
-		border-bottom: 4px solid #d7d7d7;
+		border-bottom: 4px solid #e2f0e9;
 	}
 	
 	.pricing-table:hover {
@@ -393,14 +393,14 @@
 		color: #fff; 
 	}
 	
-	.pricing-table:hover .btn:hover { background-color: #0f6d3e; }
+	.pricing-table:hover .btn:hover { background-color: #278355; }
 
 /* ==========================================================================
    =Progress Bar
    ========================================================================== */
 	
 	.progress-bar {
-		background-color: #d7d7d7;
+		background-color: #e2f0e9;
 	}
 	
 	.progress-bar .progress-bar-outer {
@@ -416,8 +416,8 @@
 	}
 	
 	a.social-icon:hover {
-		border-color: #d7d7d7;
-		color: #d7d7d7;
+		border-color: #e2f0e9;
+		color: #e2f0e9;
 	}
 
 /* ==========================================================================
@@ -432,11 +432,11 @@
 	.table-bordered td { border-left: 1px solid #1a1a1a; }
 	
 	.table-striped tbody tr:nth-child(odd) td,
-	.table-striped tbody tr:nth-child(odd) th { background-color: #f6f6f6; }	
+	.table-striped tbody tr:nth-child(odd) th { background-color: #ecf6f1; }	
 
 	@media (max-width: 480px) {
 		
-		tr { border-top: 1px solid #0f6d3e; }
+		tr { border-top: 1px solid #278355; }
 	  
 	}
 
@@ -448,8 +448,8 @@
    ========================================================================== */
 	
 	.tabs-container .tabs-menu li a { 
-		border-top: 2px solid #f6f6f6;
-		background-color: #f6f6f6;
+		border-top: 2px solid #ecf6f1;
+		background-color: #ecf6f1;
 		color: #1a1a1a;
 	}
 	
@@ -471,7 +471,7 @@
 		.tabs-container .tabs-menu li:first-child a { border-top: 1px solid #1a1a1a; }
 		
 		.tabs-container .tabs-menu li.active a {  
-			border-bottom-color: #0f6d3e;
+			border-bottom-color: #278355;
 			background-color: #fff; 
 		}
 	  
@@ -542,7 +542,7 @@
    ========================================================================== */
 	
 	.blog-post-title p {
-		background-color: #f6f6f6;
+		background-color: #ecf6f1;
 	}
 	
 	.blog-post-info {
@@ -555,11 +555,11 @@
    ========================================================================== */
 	 
    .fullwidth-section {
-		background-color: #f6f6f6;	
+		background-color: #ecf6f1;	
 	}
 	
 	.fullwidth-section.dark-bg { 
-		background-color: #333;
+		background-color: #064425;
 		color: #fff;
 	}
 	
@@ -645,7 +645,7 @@
 /* =Pages Widget
    ========================================================================== */
 	
-	.widget_pages li:nth-child(odd) a { background-color: #f6f6f6; }
+	.widget_pages li:nth-child(odd) a { background-color: #ecf6f1; }
 	
 	.widget_pages a:hover,
 	.widget_pages li:nth-child(odd) a:hover {
@@ -656,7 +656,7 @@
 /* =Archive Widget
    ========================================================================== */
 	
-	.widget_archive li:nth-child(odd) a { background-color: #f6f6f6; }
+	.widget_archive li:nth-child(odd) a { background-color: #ecf6f1; }
 	
 	.widget_archive a:hover,
 	.widget_archive li:nth-child(odd) a:hover {
@@ -667,7 +667,7 @@
 /* =Categories Widget
    ========================================================================== */
 	
-	.widget_categories li:nth-child(odd) a { background-color: #f6f6f6; }
+	.widget_categories li:nth-child(odd) a { background-color: #ecf6f1; }
 	
 	.widget_categories a:hover,
 	.widget_categories li:nth-child(odd) a:hover {
@@ -678,7 +678,7 @@
 /* =Meta Widget
    ========================================================================== */
 	
-	.widget_meta li:nth-child(odd) a { background-color: #f6f6f6; }
+	.widget_meta li:nth-child(odd) a { background-color: #ecf6f1; }
 	
 	.widget_meta a:hover,
 	.widget_meta li:nth-child(odd) a:hover {
@@ -703,7 +703,7 @@
 /* =Nav Menu Widget
    ========================================================================== */
 	
-	.widget_nav_menu li:nth-child(odd) a { background-color: #f6f6f6; }
+	.widget_nav_menu li:nth-child(odd) a { background-color: #ecf6f1; }
 	
 	.widget_nav_menu a:hover,
 	.widget_nav_menu li:nth-child(odd) a:hover {
@@ -722,19 +722,19 @@
 		border-bottom: 1px solid #1a1a1a;
 	}
 	
-	#newsletter-subscribe-form input[type="submit"]:hover { background-color: #0f6d3e; }
+	#newsletter-subscribe-form input[type="submit"]:hover { background-color: #278355; }
 
 /* =EWF Latest posts widget
    ========================================================================== */
 	
 	.ewf_widget_latest_posts .post-details {
-		background-color: #f6f6f6;
+		background-color: #ecf6f1;
 	}
 	
 /* =EWF Navigation widget
    ========================================================================== */
 	
-	.ewf_widget_navigation li:nth-child(odd) a { background-color: #f6f6f6; }
+	.ewf_widget_navigation li:nth-child(odd) a { background-color: #ecf6f1; }
 	
 	.ewf_widget_navigation a:hover,
 	.ewf_widget_navigation li:nth-child(odd) a:hover {
@@ -771,7 +771,7 @@
    ========================================================================== */
 	
 	.sf-menu a {
-		border-bottom: 1px solid #d7d7d7;
+		border-bottom: 1px solid #e2f0e9;
 		color: #fff; 	
 	}
 	
@@ -795,7 +795,7 @@
 	}
 		
 	.sf-menu > li.dropdown > ul li a:hover,
-	.sf-menu > li.dropdown > ul li.sfHover > a { color: #d7d7d7; }
+	.sf-menu > li.dropdown > ul li.sfHover > a { color: #e2f0e9; }
 		
 /* =Mega Menu Section
    ========================================================================== */
@@ -807,10 +807,10 @@
 	}
 
 	.sf-mega-section {
-		border-right: 1px solid #d7d7d7;
+		border-right: 1px solid #e2f0e9;
 	}
 	
-	.sf-mega-section a:hover { color: #d7d7d7; }
+	.sf-mega-section a:hover { color: #e2f0e9; }
 	
 	.sf-mega-section .btn {
 		border: 2px solid #fff;
@@ -875,7 +875,7 @@
 		background: url(../../images/bg-search.png) no-repeat center center;
 	}
 	
-	#custom-search-form #s:focus { border-color: #0f6d3e; }
+	#custom-search-form #s:focus { border-color: #278355; }
 
 /* ==========================================================================
    =Sticky Header
@@ -920,10 +920,10 @@
 	#footer-wrapper .widget_nav_menu li:nth-child(even) a,
 	#footer-wrapper .ewf_widget_navigation li:nth-child(even) a,
 	#footer-wrapper .ewf_widget_latest_posts .post-details,
-	#footer-wrapper .widget_tag_cloud a:hover { background-color: #0f6d3e; }
+	#footer-wrapper .widget_tag_cloud a:hover { background-color: #278355; }
 	
 	#footer-wrapper .widget_tag_cloud a,
-	#footer-wrapper .ewf_widget_social_media a.social-icon { border-color: #d7d7d7; }
+	#footer-wrapper .ewf_widget_social_media a.social-icon { border-color: #e2f0e9; }
 	
 	#footer-wrapper .ewf_widget_social_media a.social-icon:hover {
 		border-color: #9b9aa2;
@@ -1017,12 +1017,12 @@
 	
 	
 	.slider-control span {
-		border: 2px solid #d7d7d7;
-		color: #d7d7d7;
+		border: 2px solid #e2f0e9;
+		color: #e2f0e9;
 	}
 	
 	.slider-control span a {
-		color: #d7d7d7; 
+		color: #e2f0e9; 
 	}
 	
 	.slider-control span:hover { border-color: #1a1a1a; }
