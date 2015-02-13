@@ -2,7 +2,7 @@
 
 /////////// Add your own email below //////////////// 
 
-	define("WEBMASTER_EMAIL", 'bitpublimedia@gmail.com');
+	define("WEBMASTER_EMAIL", 'samuelchien821@gmail.com');
 	
 	error_reporting (E_ALL ^ E_NOTICE);
 
@@ -53,13 +53,14 @@
 	
 		if(!$error)
 		{
-			$mail = @mail(WEBMASTER_EMAIL, $subject, $message,
+			$mail = mail(WEBMASTER_EMAIL, $subject, $message,
 				 "From: ".$name." <".$email.">\r\n"
 				."Reply-To: ".$email."\r\n"
 				."Return-Path: " .$email. "\r\n"
 				."MIME-Version: 1.0\r\n"	
 				."Content-type: text/html; charset=UTF-8\r\n");
 			
+
 			if($mail){
 				echo 'OK';
 			}else{
