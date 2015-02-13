@@ -109,6 +109,7 @@
 	line-height: 24px;
 	font-weight: 300;
 	letter-spacing: 1.5px;
+
 	}
 
 	h1, 
@@ -128,7 +129,7 @@
 	h4 a, 
 	h5 a, 
 	h6 a { 
-		color: #36805b;
+		color: #40a472;
 		font-weight: inherit; 
 	}
 	
@@ -258,8 +259,8 @@
 	.text-highlight { 
 		padding: 10px;
 		border-radius: 2px;	
-		background-color: #f6f6f6; 
-		color: #36805b; 
+		background-color: #ecf6f1; 
+		color: #40a472; 
 	}
 
 	.text-uppercase { text-transform: uppercase; }
@@ -303,7 +304,7 @@
 	
 	a, 
 	a:visited { 
-		color: #0f6d3e; 
+		color: #278355; 
 		text-decoration: none; 
 	}
 	
@@ -317,7 +318,7 @@
 	
 	a:hover, 
 	a:focus {
-		color: #0f6d3e;
+		color: #278355;
 		outline: 0; 
 		text-decoration: underline;
 	}	
@@ -400,7 +401,7 @@
 	table th, 
 	table td {
 		padding: 8px; 
-		border-top: 1px solid #36805b;
+		border-top: 1px solid #40a472;
 		vertical-align: top; 
 	}
 	
@@ -450,7 +451,7 @@
 		   -moz-box-sizing: border-box;
 				box-sizing: border-box;
 		padding: 10px 20px;
-		border: 2px solid #d7d7d7;
+		border: 2px solid #e2f0e9;
 		border-radius: 3px;
 		margin-bottom: 10px;
 		background: #fff;
@@ -462,7 +463,7 @@
 	input[type="email"]:focus,
 	input[type="url"]:focus,
 	textarea:focus {
-		border-color: #36805b;
+		border-color: #40a472;
 		outline: 0;		
 	}
 	
